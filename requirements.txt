@@ -1,6 +1,5 @@
 Pandas Version = 1.0.3
 Numpy Version = 1.18.4
 spaCy Version = 2.2.4
-Gensim Version = 3.8.3
 Regex Version = 2.5.72
 Demoji Version = 0.2.1
